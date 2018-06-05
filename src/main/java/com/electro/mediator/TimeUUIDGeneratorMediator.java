@@ -1,4 +1,4 @@
-package com.wso2.mediator;
+package com.electro.mediator;
 
 import com.fasterxml.uuid.Generators;
 import org.apache.synapse.MessageContext; 
